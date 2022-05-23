@@ -9,5 +9,9 @@
     "@type" : null,
     "@id" : "https://TBPARIS75.github.io/TEST/manifests/info.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://TBPARIS75.github.io/TEST/manifests/info",
+    "label" : null
   } ]
 }
