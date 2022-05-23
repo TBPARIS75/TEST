@@ -1,0 +1,13 @@
+{
+  "id" : "https://TBPARIS75.github.io/TEST/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TBPARIS75/TEST project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : null,
+    "@id" : "https://TBPARIS75.github.io/TEST/manifests/info.json",
+    "label" : null
+  } ]
+}
